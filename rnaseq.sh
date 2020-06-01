@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 
 # Author: Kyle Helzer
 # email: helzerk@gmail.com
