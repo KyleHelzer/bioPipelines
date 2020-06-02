@@ -15,6 +15,7 @@
 		# genome gtf file
 		# number of processors
 # TODO incorporate fastqc in pipeline
+# TODO have script remove _1.fastq and _2.fastq after alignment and conversion to BAM
 # TODO ?? delete unneeded files after analysis to save disk space?? Could gzip, but adds additional time
 # TODO use WHICH to check if programs are in PATH. If not, throw error and exit
 # TODO use SECONDS to calculate time
